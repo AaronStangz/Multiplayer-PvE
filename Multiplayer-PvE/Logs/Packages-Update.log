@@ -37,3 +37,11 @@ The following packages were added:
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
   com.unity.modules.accessibility@1.0.0
+
+=== Thu Aug 15 10:50:50 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.nuget.newtonsoft-json@3.2.1
