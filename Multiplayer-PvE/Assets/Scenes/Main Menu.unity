@@ -707,7 +707,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e40b7de1e8c8154680a4aeb338a3fca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentLobbyID: 0
+  CurrentLobbyID: 480
 --- !u!114 &1802467805
 MonoBehaviour:
   m_ObjectHideFlags: 0
